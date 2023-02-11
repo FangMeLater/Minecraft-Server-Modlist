@@ -7,6 +7,8 @@ Cloth Config API https://www.curseforge.com/minecraft/mc-mods/cloth-config
 
 EasyAuth https://www.curseforge.com/minecraft/mc-mods/easyauth
 
+Eureka! Airships! https://www.curseforge.com/minecraft/mc-mods/eureka-ships
+
 Fabric API https://www.curseforge.com/minecraft/mc-mods/fabric-api
 
 Fabric Language Kotlin https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
